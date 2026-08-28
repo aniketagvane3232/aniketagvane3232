@@ -78,33 +78,6 @@
 
 ---
 
-### 📌 Pinned Projects :
-
-<p align="center">
-
-<a href="https://github.com/aniketagvane3232/NeuroBrief">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aniketagvane3232&repo=NeuroBrief&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/aniketagvane3232/NeuroBrief-Backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aniketagvane3232&repo=NeuroBrief-Backend&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/aniketagvane3232/Talkivo-Frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aniketagvane3232&repo=Talkivo-Frontend&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/aniketagvane3232/Talkivo-Backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aniketagvane3232&repo=Talkivo-Backend&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
 
 
 ### 🎯 Currently :
