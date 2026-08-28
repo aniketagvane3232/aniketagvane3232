@@ -1,3 +1,9 @@
+<!--- ##### HEADER SECTION ##### --->
+<div id="header" align="center">
+  <!--- ##### Banner on top ##### --->
+  <img alt="banner" src="assets/readme banner.png" width="100%"/>
+  
+
 <p align="center">
   <img src="assets/banner.gif" alt="Aniket Agvane" width="100%">
 </p>
