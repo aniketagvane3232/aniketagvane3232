@@ -1,4 +1,10 @@
-# Hi 👋, I'm Aniket Agvane
+<p align="center">
+  <img src="assets/banner.gif" alt="Aniket Agvane" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Aniket Agvane</h1>
+
+<h3 align="center">Software Developer | Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/aniketagvane3232">
@@ -20,20 +26,18 @@
 
 ### 👨‍💻 About Me :
 
-* 🎓 I'm an **Information Technology student** passionate about software development and Artificial Intelligence.
-* 💻 I enjoy building **full-stack applications, backend APIs and AI-powered systems**.
-* 🤖 Exploring **AI/ML, NLP, Generative AI, semantic search and recommendation systems**.
-* 🚀 Experienced with **Python, C#, Java, ASP.NET Core, React and REST APIs**.
+* 🎓 I'm an **Information Technology student** passionate about software development.
+* 💻 I enjoy building **full-stack applications and backend APIs**.
+* 🚀 Experienced with **Python, C#, Java, JavaScript, ASP.NET Core and React**.
 * 🧠 I have solved **200+ Data Structures & Algorithms problems**.
 * 🗄️ I work with databases including **MySQL**.
 * 🐳 Interested in **Docker, cloud technologies and scalable applications**.
 * 📊 I also enjoy working with **Power BI and data analytics**.
-* 🔭 Currently focused on improving my **software engineering and AI development skills**.
+* 🔭 Currently focused on improving my **software engineering skills**.
 * 📍 Based in **Pune, Maharashtra, India**.
 * 📬 How to reach me: **[aniketagvane3232@gmail.com](mailto:aniketagvane3232@gmail.com)**
 
 ---
-
 
 ### 🖥️ IDE and Tools :
 
@@ -68,19 +72,49 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
 
 ---
 
+### 📊 My Stats :
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketagvane3232&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketagvane3232&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🔥 Streak Stats :
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketagvane3232&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 📈 Activity Graph :
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketagvane3232&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies :
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aniketagvane3232&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+### 📌 Pinned Projects :
 
 <p align="center">
 
@@ -108,34 +142,34 @@
 
 ---
 
-## 🎯 Currently
+
+### 🎯 Currently :
 
 ```text
 💻 Building full-stack applications
-🤖 Exploring Artificial Intelligence & Machine Learning
 🧠 Practicing Data Structures & Algorithms
-🔎 Learning NLP and semantic search
-🐳 Exploring Docker and scalable backend systems
-📚 Improving software engineering skills
-🚀 Building projects that solve real-world problems
+🌐 Improving backend development skills
+🐳 Exploring Docker and deployment
+📚 Learning new technologies
+🚀 Building real-world projects
 ```
 
 ---
 
-## 📚 What I'm Learning
+### 📚 What I'm Learning :
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Natural Language Processing
-* 🔍 Semantic Search & Vector Databases
 * 🌐 Advanced ASP.NET Core
 * ⚛️ Modern React Development
 * 🐳 Docker & Deployment
 * ☁️ Cloud & Scalable Systems
 * 📊 Data Analytics
+* 🧠 Software Architecture
+* 🔐 Backend Security
+* 🧩 System Design
 
 ---
 
-## 💡 Developer Philosophy
+### 💡 Developer Philosophy :
 
 > **Build. Learn. Break. Fix. Repeat.**
 
@@ -143,7 +177,7 @@ I believe the best way to learn software development is by building real project
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me :
 
 <p align="center">
 
@@ -158,6 +192,10 @@ I believe the best way to learn software development is by building real project
 <a href="https://github.com/aniketagvane3232">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<!-- ADD INSTAGRAM LINK HERE -->
+
+<!-- ADD PORTFOLIO LINK HERE -->
 
 </p>
 
