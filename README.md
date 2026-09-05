@@ -16,7 +16,7 @@
   <a href="https://github.com/aniketagvane3232">
     <img src="https://img.shields.io/badge/GitHub-aniketagvane3232-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/aniket-a-122b29298/">
+  <a href="https://www.linkedin.com/in/aniket-agvane-122b29298/">
     <img src="https://img.shields.io/badge/LinkedIn-Aniket%20Agvane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:aniketagvane3232@gmail.com">
